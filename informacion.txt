@@ -1,5 +1,10 @@
-Yorki Manuel Correa Jiménez 
+Hola mundo 
 
-Universidad Técnica Particular de Loja 
+Java y python 
+Java es un lenguaje compilado
+Python es un lenguaje interpretado
 
-Loja
+Desarrollo de aplicaciones  
+
+Unviersidad T�cnica Particular de Loja
+
